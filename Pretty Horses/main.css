@@ -1,0 +1,49 @@
+*{
+    color: #593a2f;
+    word-spacing: 1px;
+    
+}
+
+.container {
+    max-width: 980px;
+    margin: 0 auto;
+    padding: 30px 60px;
+    background-color: #f3e8d6;
+}
+h1{
+    text-align: center;
+}
+
+.main {
+    text-align: center;
+    text-transform: capitalize;
+    color: #593a2f;
+
+}
+
+.img1 {
+    display: block;
+    margin: 0 auto;
+    border-radius: 30px;
+}
+
+
+.fiveFacts {
+    text-transform: capitalize;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-evenly;
+}
+nav ul li a {
+    text-decoration: none;
+}
+
+p{
+    line-height: 30px;
+}
+ 
